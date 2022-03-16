@@ -25,9 +25,8 @@
                  Kelas : TI.20 A.1
 </p>
 
-<p align="center">
-	<img src="/Logo/blank.png" width="20" height="20">
-</p>
+<br/>
+<br/>
 
 <p align="center">
 	<b>UNIVERSITAS PELITA BANGSA</b>
