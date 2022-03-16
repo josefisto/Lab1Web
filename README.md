@@ -5,7 +5,7 @@
 	TUGAS VERSION CONTROL SYSTEM
 </p>
 <p align="center">
-	Dosen : Agung Nugroho, M.Kom
+	Dosen Pengampu : Agung Nugroho, M.Kom
 </p>
 <p align="center"> 
 	<b>Tugas untuk memenuhi syarat penilain pada Pert-4</b>
