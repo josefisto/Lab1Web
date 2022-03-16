@@ -1,14 +1,14 @@
 <p align="center">
-	BAHASA PEMROGRAMAN
+	PEMROGRAMAN WEB
 </p>
 <p align="center">
-	TUGAS VERSION CONTROL SYSTEM
+	TUGAS PRATIKUM
 </p>
 <p align="center">
 	Dosen Pengampu : Agung Nugroho, M.Kom
 </p>
 <p align="center"> 
-	<b>Tugas untuk memenuhi syarat penilain pada Pert-4</b>
+	<b>Tugas untuk memenuhi syarat penilain pada Pert-2</b>
 </p>
 
 <p align="center">
@@ -38,5 +38,5 @@
 	<b>TEKNIK INFORMATIKA</b>
 </p>
 <p align="center">
-	<b>TA 2020 / 2021</b>
+	<b>TA 2021 / 2022</b>
 </p>
