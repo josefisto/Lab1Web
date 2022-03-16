@@ -40,3 +40,6 @@
 <p align="center">
 	<b>TA 2021 / 2022</b>
 </p>
+
+<hr>
+</hr>
