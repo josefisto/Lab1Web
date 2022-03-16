@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="/Logo/logo.png" alt="UPB" width="500" height="400">
+	<img src="/Logo/logo.png" alt="UPB" width="350" height="400">
 </p>
 
 <p align="center">
@@ -41,6 +41,25 @@
 	<b>TA 2021 / 2022</b>
 </p>
 
+<br></br>
+
 <hr>
 </hr>
 
+<br></br>
+
+# Deklarasi DTD
+Berikut adalah hasil deklarasi Doctype (DTD / Document Type Declaration)
+
+<p align="center">
+	<img src="SS/Laporan (readme)/doctype.png" alt="UPB" width="350" height="400">
+
+Berikut adalah kodingan dari hasil di atas
+```   
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </code></pre>
