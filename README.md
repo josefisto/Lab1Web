@@ -43,3 +43,8 @@
 
 <hr>
 </hr>
+
+<h1> ini heading 1 <h1>
+<h2> ini heading 2 <h2> 
+<h3> ini heading 3 <h3>
+<h4> ini heading 4 <h4>
