@@ -52,7 +52,7 @@
 Berikut adalah hasil deklarasi Doctype (DTD / Document Type Declaration)
 
 <p align="center">
-	<img src="SS/Laporan (readme)/doctype.png" alt="UPB" width="350" height="400">
+	<img src="SS/Laporan (readme)/doctype.png" alt="UPB">
 
 Berikut adalah kodingan dari hasil di atas
 ```   
